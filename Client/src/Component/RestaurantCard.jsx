@@ -93,7 +93,7 @@ const styles = StyleSheet.create({
   cardStatus: {
     color: 'green',
     fontSize: 16,
-    left: 320
+    left: 280
   },
   cardDistance: {
     color: 'gray',
@@ -101,7 +101,7 @@ const styles = StyleSheet.create({
     top: 10,
   },
   chatSign: {
-    left: 350,
+    left: 310,
     bottom: 120,
 
   }

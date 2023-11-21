@@ -527,7 +527,7 @@ const styles = StyleSheet.create({
     paddingVertical: 8,
     paddingHorizontal: 24,
     width: Display.setWidth(40),
-    left: 220
+    left: 190
   },
   chatText: {
     color: "#FFF",
